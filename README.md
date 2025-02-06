@@ -32,8 +32,15 @@
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="200"> <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg" width="200">
 
 
-## 2ª Lei - Kirchhoff
+## 2ª Lei - Kirchhoff para Tensões
+
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="300">
 
 
-<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="200">
+* Imagine uma montanha-russa onde o carrinho sobe uma colina e depois desce em várias partes da pista.
+* A energia total que o carrinho ganha no início (tensão fornecida pela bateria) deve ser totalmente dissipada ao longo do percurso (quedas de tensão nos resistores).
+* Isso representa a soma algébrica das tensões em um circuito fechado, que deve ser zero.
 
+## 3ª Lei - Kirchhoff para Corrente
+
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/rotatoria.jpg" width="300">
