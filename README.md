@@ -29,11 +29,11 @@
 
 # 1ª Lei - Ohm
 
-<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="100"> <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg" width="100">
-
-
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="200"> <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg" width="200">
 
 
 ## 2ª Lei - Kirchhoff
 
-![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png)
+
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="200">
+
