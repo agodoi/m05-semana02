@@ -26,3 +26,9 @@
 * Resistores superaquecidos com valores alterados
 
 # Bora Aprender Eletrônica e Diagnosticar com Instrumentação de Bancada!
+
+## 1ª Lei - Ohm
+
+Quem V
+
+## 2ª Lei - Kirchhoff
