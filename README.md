@@ -29,9 +29,8 @@
 
 ## 1ª Lei - Ohm
 
-### Traduza essa figura!
-
-
 ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg) ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg)
+
+
 
 ## 2ª Lei - Kirchhoff
