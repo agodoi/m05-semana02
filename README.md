@@ -29,12 +29,12 @@
 
 # 1ª Lei - Ohm
 
-<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="200"> <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg" width="200">
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="250"> <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg" width="250">
 
 
 ## 2ª Lei - Kirchhoff para Tensões
 
-<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="300">
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="500">
 
 
 * Imagine uma montanha-russa onde o carrinho sobe uma colina e depois desce em várias partes da pista.
@@ -43,7 +43,7 @@
 
 ## 3ª Lei - Kirchhoff para Corrente
 
-<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/rotatoria.jpg" width="300">
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/rotatoria.jpg" width="500">
 
 
 * Imagine um cruzamento de ruas onde carros entram e saem.
