@@ -35,4 +35,4 @@
 
 ## 2ª Lei - Kirchhoff
 
-![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.jpg)
+![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png)
