@@ -10,7 +10,7 @@
   * ao braço robótico
   * ao leitor de QRCode
   * ao motor de passo
-* Diagnóstico de falhas de regulador de tensão e fontes
+* Diagnóstico de falhas de fontes
 * Filtragem de ruído
 
 
