@@ -31,8 +31,8 @@
 
 ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg) ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg)
 
-![Montanha](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg) ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.jpg)
 
 
 ## 2ª Lei - Kirchhoff
 
+![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.jpg)
