@@ -38,7 +38,7 @@ V = R \cdot I
 $$
 
 
-## 2ª Lei - Kirchhoff para Tensões
+# 2ª Lei - Kirchhoff para Tensões
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="500">
 
@@ -47,7 +47,14 @@ $$
 * A energia total que o carrinho ganha no início (tensão fornecida pela bateria) deve ser totalmente dissipada ao longo do percurso (quedas de tensão nos resistores).
 * Isso representa a soma algébrica das tensões em um circuito fechado, que deve ser zero.
 
-## 3ª Lei - Kirchhoff para Corrente
+## Fórmula
+
+$$
+V_1 + V_2 + V_3 + ... + V_n = 0
+$$
+
+
+# 3ª Lei - Kirchhoff para Corrente
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/rotatoria.jpg" width="500">
 
