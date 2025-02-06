@@ -29,6 +29,9 @@
 
 ## 1ª Lei - Ohm
 
-Quem V
+### Traduza essa figura!
+
+
+![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg)
 
 ## 2ª Lei - Kirchhoff
