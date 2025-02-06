@@ -25,9 +25,9 @@
 * Capacitores abertos
 * Resistores superaquecidos com valores alterados
 
-# Bora Aprender Eletrônica e Diagnosticar com Instrumentação de Bancada!
+### Bora Aprender Eletrônica e Diagnosticar com Instrumentação de Bancada!
 
-## 1ª Lei - Ohm
+# 1ª Lei - Ohm
 
 ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg) ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg)
 
