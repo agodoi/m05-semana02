@@ -29,9 +29,8 @@
 
 # 1ª Lei - Ohm
 
-<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="300">
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="100"> <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg" width="100">
 
-![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg) ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg)
 
 
 
