@@ -62,3 +62,10 @@ $$
 * Imagine um cruzamento de ruas onde carros entram e saem.
 * A soma dos carros que entram em um cruzamento deve ser igual à soma dos carros que saem.
 * Assim como em um nó de um circuito, a soma das correntes que entram deve ser igual à soma das que saem.
+
+## Fórmula
+
+$$
+\sum I_{entrada} = \sum I_{saida}
+$$
+
