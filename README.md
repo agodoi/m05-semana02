@@ -1,1 +1,13 @@
-# m05-semana02
+# Atendimento do Professor
+
+## Terças e quintas. Professor de horário parcial. Nesses 2 dias, podem contar comigo!
+
+# Semama 02 - Introdução à Eletrônica Analógica
+
+## Impactos no seu Projeto
+
+* Montagem de circuitos auxiliares ao braço robótico ou leitor de QRCode ou motor de passo
+* Diagnóstico de falhas de regulador de tensão e fontes
+* Filtragem de ruído
+
+
