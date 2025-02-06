@@ -31,6 +31,7 @@
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_vendo.jpg" width="250"> <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/pessoa_sorrindo.jpg" width="250">
 
+##
 $$
 V = R \cdot I
 $$
