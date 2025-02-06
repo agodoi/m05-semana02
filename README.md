@@ -44,3 +44,8 @@
 ## 3ª Lei - Kirchhoff para Corrente
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/rotatoria.jpg" width="300">
+
+
+* Imagine um cruzamento de ruas onde carros entram e saem.
+* A soma dos carros que entram em um cruzamento deve ser igual à soma dos carros que saem.
+* Assim como em um nó de um circuito, a soma das correntes que entram deve ser igual à soma das que saem.
