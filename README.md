@@ -74,3 +74,10 @@ $$
 \sum I_{entrada} = \sum I_{saida}
 $$
 
+# Onde usar cada Lei?
+
+### Lei de Ohm, em todos os diagnósticos e conferências de circuitos
+
+### Lei de Kirchhoff, quando for projetar ou resolver problemas com o esquema elétrico em mãos.
+
+
