@@ -14,4 +14,15 @@
 * Filtragem de ruído
 
 
+# Isso é uma bomba!
+
 ![Fonte](https://github.com/agodoi/m05-semana02/blob/main/imgs/fonte12V1A.jpg)
+
+## Princpiais problemas
+
+* Regulador de tensão com defeito
+* Diodos em curto
+* Capacitores abertos
+* Resistores superaquecidos com valores alterados
+
+# Bora Aprender Eletrônica e Diagnosticar com Instrumentação de Bancada!
