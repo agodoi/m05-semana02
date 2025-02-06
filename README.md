@@ -6,7 +6,10 @@
 
 ## Impactos no seu Projeto
 
-* Montagem de circuitos auxiliares ao braço robótico ou leitor de QRCode ou motor de passo
+* Montagem de circuitos auxiliares:
+  * ao braço robótico
+  * ao leitor de QRCode
+  * ao motor de passo
 * Diagnóstico de falhas de regulador de tensão e fontes
 * Filtragem de ruído
 
