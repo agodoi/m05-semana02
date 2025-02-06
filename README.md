@@ -53,6 +53,11 @@ $$
 V_1 + V_2 + V_3 + ... + V_n = 0
 $$
 
+$$
+R_1.I_1 + R_2.I_2 + R_3.I_3 + ... + R_n.I_n = 0
+$$
+
+
 
 # 3ª Lei - Kirchhoff para Corrente
 
