@@ -90,5 +90,51 @@ Usaremos esse simulador para aprender a Lei de Ohm por meio da instrumentação 
 * Fonte de bancada
 
 
+# Hands On
+
+## (1) Monte o circuito abaixo no TinkerCad e realize as medições solicitadas
+
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-01.png" width="500">
+
+
+### (1.1) Medição da tensão
+
+Medir a tensão (voltagem) é uma das funções mais comuns de um multímetro digital ou analógico. A tensão é medida em **volts (V)** e pode ser classificada como tensão contínua (DC) ou alternada (AC).
+
+### (1.2) Coloque o seletor na escala de tensão apropriada
+     - **DCV (Tensão Contínua)** para medir baterias, fontes de alimentação CC, etc.
+     - **ACV (Tensão Alternada)** para medir tomadas, circuitos AC, etc.
+   - Certifique-se de selecionar uma escala maior do que a tensão esperada, caso o multímetro não seja automático.
+
+### (1.3) Conecte os cabos
+   - **Cabo preto (COM):** Insira no conector marcado como "COM".
+   - **Cabo vermelho:** Insira no conector marcado como "V" ou "Volt".
+
+### (1.4) Conectando ao Circuito
+   - **Ligue o multímetro** e coloque as pontas de prova nos pontos onde deseja medir a tensão:
+   - **Ponta preta:** Conecte ao ponto de referência ou terra (GND).
+   - **Ponta vermelha:** Conecte ao ponto onde deseja medir a tensão.
+
+### (1.3) Observação sobre polaridade
+   - Para tensão DC, observe a polaridade:
+   - Se a ponta vermelha estiver no positivo e a preta no negativo, a leitura será positiva.
+   - Caso contrário, a leitura será negativa.
+   - Para tensão AC, a polaridade não importa.
+
+## (1.4) Leitura da Medida
+   - **Observe o valor no display do multímetro**:
+   - O valor exibido será a tensão entre os dois pontos medidos.
+   - Certifique-se de que a unidade (V, mV) esteja correta.
+
+
+## (1.5) Dicas Importantes
+- **Segurança:** Sempre tenha cuidado ao medir tensões em tomadas ou circuitos vivos. Use proteção adequada.
+- **Não exceda a escala:** Se não souber a tensão esperada, comece na escala mais alta e vá reduzindo.
+- **Calibração:** Certifique-se de que o multímetro esteja calibrado para medidas precisas.
+
+
+
+## Comprovando matematicamente os valores observados usando LKC
+
 
 
