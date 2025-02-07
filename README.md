@@ -96,6 +96,9 @@ Usaremos esse simulador para aprender a Lei de Ohm por meio da instrumentação 
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-01.png" width="500">
 
+R1 (esquerda) e R2 (centro) = 100 ohms
+R3 (direita) = 330 ohms
+
 
 ### (1.1) Medição da tensão
 
@@ -126,12 +129,12 @@ Medir a tensão (voltagem) é uma das funções mais comuns de um multímetro di
    - O valor exibido será a tensão entre os dois pontos medidos.
    - Certifique-se de que a unidade (V, mV) esteja correta.
 
-
 ## (1.5) Dicas Importantes
 - **Segurança:** Sempre tenha cuidado ao medir tensões em tomadas ou circuitos vivos. Use proteção adequada.
 - **Não exceda a escala:** Se não souber a tensão esperada, comece na escala mais alta e vá reduzindo.
 - **Calibração:** Certifique-se de que o multímetro esteja calibrado para medidas precisas.
 
+## (1.6) Quando vale o VR1, VR2 e VR3? 
 
 
 ## Comprovando matematicamente os valores observados usando LKC
