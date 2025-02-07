@@ -98,7 +98,7 @@ Usaremos esse simulador para aprender a Lei de Ohm por meio da instrumentação 
 
 ## (1) Monte o circuito abaixo no TinkerCad e realize as medições solicitadas
 
-<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-01.png" width="500">
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-serie.png" width="500">
 
 R1 (esquerda) e R2 (centro) = 100 ohms
 R3 (direita) = 330 ohms
@@ -186,4 +186,11 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 ## (2.9) Comprove matematicamente, pela Lei de Ohm, o valor que você mediu.
 
 
+## (3) Meça Tensão no circuito abaixo e comprove matematicamente seu valor.
+
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-paralelo.png" width="500">
+
+## (4) Meça Corrente no circuito abaixo e comprove matematicamente seus valores.
+
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-misto.png" width="500">
 
