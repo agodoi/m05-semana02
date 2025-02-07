@@ -105,8 +105,9 @@ R3 (direita) = 330 ohms
 Medir a tensão (voltagem) é uma das funções mais comuns de um multímetro digital ou analógico. A tensão é medida em **volts (V)** e pode ser classificada como tensão contínua (DC) ou alternada (AC).
 
 ### (1.2) Coloque o seletor na escala de tensão apropriada
-     - **DCV (Tensão Contínua)** para medir baterias, fontes de alimentação CC, etc.
-     - **ACV (Tensão Alternada)** para medir tomadas, circuitos AC, etc.
+
+   - **DCV (Tensão Contínua)** para medir baterias, fontes de alimentação CC, etc.
+   - **ACV (Tensão Alternada)** para medir tomadas, circuitos AC, etc.
    - Certifique-se de selecionar uma escala maior do que a tensão esperada, caso o multímetro não seja automático.
 
 ### (1.3) Conecte os cabos
