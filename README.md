@@ -38,7 +38,7 @@ V = R \cdot I
 $$
 
 
-# 2ª Lei - Kirchhoff para Tensões
+# 2ª Lei - Kirchhoff para Tensões (LKT)
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="500">
 
@@ -59,7 +59,7 @@ $$
 
 
 
-# 3ª Lei - Kirchhoff para Corrente
+# 3ª Lei - Kirchhoff para Corrente (LKC)
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/rotatoria.jpg" width="500">
 
@@ -79,5 +79,16 @@ $$
 ### Lei de Ohm, em todos os diagnósticos e conferências de circuitos
 
 ### Lei de Kirchhoff, quando for projetar ou resolver problemas com o esquema elétrico em mãos.
+
+# Simulador TinkerCad
+
+Usaremos esse simulador para aprender a Lei de Ohm por meio da instrumentação de bancada.
+
+* Usaremos multímetro na escala de tensão
+* Multímetro na escala de corrente
+* Gerador de Sinais
+* Fonte de bancada
+
+
 
 
