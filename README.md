@@ -186,11 +186,11 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 ## (2.9) Comprove matematicamente, pela Lei de Ohm, o valor que você mediu.
 
 
-## (3) Meça Tensão no circuito abaixo e comprove matematicamente seu valor.
+## (3) Meça Tensão e Corrente no circuito Paralelo abaixo e comprove matematicamente seu valor.
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-paralelo.png" width="500">
 
-## (4) Meça Corrente no circuito abaixo e comprove matematicamente seus valores.
+## (4) Meça Tensão e Corrente no circuito Misto abaixo e comprove matematicamente seus valores.
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-misto.png" width="500">
 
