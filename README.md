@@ -194,3 +194,6 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-misto.png" width="500">
 
+## (5) Aplicando LKT
+
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-misto-lkt.png" width="500">
