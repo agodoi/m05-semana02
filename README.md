@@ -131,11 +131,52 @@ Medir a tensão (voltagem) é uma das funções mais comuns de um multímetro di
    - Certifique-se de que a unidade (V, mV) esteja correta.
 
 ## (1.5) Dicas Importantes
-- **Segurança:** Sempre tenha cuidado ao medir tensões em tomadas ou circuitos vivos. Use proteção adequada.
-- **Não exceda a escala:** Se não souber a tensão esperada, comece na escala mais alta e vá reduzindo.
-- **Calibração:** Certifique-se de que o multímetro esteja calibrado para medidas precisas.
+   - **Segurança:** Sempre tenha cuidado ao medir tensões em tomadas ou circuitos vivos. Use proteção adequada.
+   - **Não exceda a escala:** Se não souber a tensão esperada, comece na escala mais alta e vá reduzindo.
+   - **Calibração:** Certifique-se de que o multímetro esteja calibrado para medidas precisas.
 
-## (1.6) Quando vale o VR1, VR2 e VR3? 
+## (1.6) Meça o quanto vale o VR1, VR2 e VR3.
+
+
+### (2.1) Medição da Corrente
+
+Medir a corrente elétrica é também uma das funções mais importantes de um multímetro digital ou analógico. A corrente é medida em **ampères (A)** e pode ser classificada como corrente contínua (DC) ou alternada (AC).
+
+### (2.2) Coloque o seletor na escala de corrente apropriada
+
+   - **DCA (Corrente Contínua)** para medir circuitos alimentados por fontes CC.
+   - **ACA (Corrente Alternada)** para medir circuitos alimentados por fontes AC.
+   - Certifique-se de selecionar a escala adequada para a corrente esperada, geralmente especificada no circuito. Use a escala mais alta se não souber o valor aproximado.
+
+### (2.3) Conecte os cabos
+   - **Cabo preto (COM):** Insira no conector marcado como "COM".
+   - **Cabo vermelho:**
+     - Insira no conector marcado como "A" ou "10A" para correntes altas.
+     - Insira no conector marcado como "mA" para correntes menores (se disponível).
+
+### (2.4) Conectando ao Circuito
+   - **Interrompa o circuito** no ponto onde deseja medir a corrente, removendo o respectivo jumper.
+   - Conecte o multímetro **em série** com o circuito:
+     - **Ponta vermelha:** Conecte ao lado do circuito que está mais próximo do positivo ou da fonte.
+     - **Ponta preta:** Conecte ao lado do circuito que está mais próximo do negativo ou GND.
+
+### (2.5) Observação sobre polaridade
+   - Para corrente DC, observe a polaridade:
+     - Se a corrente fluir no sentido convencional (ponta vermelha no lado positivo), a leitura será positiva.
+     - Caso contrário, a leitura será negativa.
+   - Para corrente AC, a polaridade não importa.
+
+## (2.6) Leitura da Medida
+   - O valor exibido será a corrente que flui pelo ponto medido.
+   - Certifique-se de que a unidade (A, mA, µA) esteja correta para a faixa selecionada.
+
+## (2.7) Dicas Importantes
+- **Segurança:** Sempre tenha cuidado ao medir correntes altas. Use proteção adequada e certifique-se de que o multímetro suporta o valor esperado.
+- **Evite danos:** Nunca tente medir corrente em um circuito sem interrompê-lo. Nunca conectar o multímetro em paralelo usando a escala de corrente.
+- **Calibração:** Certifique-se de que o multímetro esteja calibrado para garantir medidas precisas.
+
+## (2.8) Meça a corrente nos resistores R1, R2 e R3.
+
 
 
 ## Comprovando matematicamente os valores observados usando LKC
