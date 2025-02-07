@@ -38,6 +38,10 @@ V = R \cdot I
 $$
 
 
+<img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/leideohm.jpg" width="500">
+
+
+
 # 2ª Lei - Kirchhoff para Tensões (LKT)
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/montanha_russa.png" width="500">
@@ -177,7 +181,7 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 - **Evite danos:** Nunca tente medir corrente em um circuito sem interrompê-lo. Nunca conectar o multímetro em paralelo usando a escala de corrente.
 - **Calibração:** Certifique-se de que o multímetro esteja calibrado para garantir medidas precisas.
 
-## (2.8) Meça a corrente nos resistores R1, R2 e R3.
+## (2.8) Meça a corrente nos resistores IR1, IR2 e IR3.
 
 ## (2.9) Comprove matematicamente, pela Lei de Ohm, o valor que você mediu.
 
