@@ -137,7 +137,9 @@ Medir a tensão (voltagem) é uma das funções mais comuns de um multímetro di
 
 ## (1.6) Meça o quanto vale o VR1, VR2 e VR3.
 
+## (1.7) Comprove matematicamente, pela Lei de Ohm, o valor que você mediu
 
+---
 ### (2.1) Medição da Corrente
 
 Medir a corrente elétrica é também uma das funções mais importantes de um multímetro digital ou analógico. A corrente é medida em **ampères (A)** e pode ser classificada como corrente contínua (DC) ou alternada (AC).
@@ -177,9 +179,7 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 
 ## (2.8) Meça a corrente nos resistores R1, R2 e R3.
 
-
-
-## Comprovando matematicamente os valores observados usando LKC
+## (2.9) Comprove matematicamente, pela Lei de Ohm, o valor que você mediu.
 
 
 
