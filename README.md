@@ -198,7 +198,6 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 
 <img src="https://github.com/agodoi/m05-semana02/blob/main/imgs/circuito-misto-lkt.png" width="500">
 
-[circuito](https://www.tinkercad.com/things/2xXIkL78lpx-eletricidade-simulacao-corrente/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits%3Fpage%3D1&sharecode=LYk_PSfHtcqp-YjCDKfLuxgOQWMHT0V35CXY6Yg4WA8)
 
 ### Dados do circuito:
 
