@@ -209,3 +209,11 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 * Resistor vertical central (R3) = 12 ohms
 * Resitor inferior horizontal esquerdo (R5) = 4 ohms
 * Resistor inferior horizontal direito (R4) = 3 ohms
+
+## Ponderada do Dia
+
+Cada aluno deve comprovar matematicamente o valor da corrente I1 (malha 1) e I2 (malha 2) usando o LKT e a Lei de Ohm.
+Montar o circuito em seu TinkerCad, ligar as fontes CC, os resistores, e o amperímetro para medir o Itotal saindo da fonte de 45V, outro para medir o Itotal saindo da fonte de 10V e terceiro amperímetro para medir a corrente no ramo do R3.
+
+### Barema
+
