@@ -203,4 +203,8 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 Dados do circuito:
 Fonte CC da esquerda = 45V
 Fonte CC da direita = 10V
-
+Resistor superior horizontal esquerdo = 2 ohmns
+Resistor superior horizontal direito = 9 ohms
+Resistor vertical central = 12 ohms
+Resitor inferior horizontal esquerdo = 4 ohms
+Resistor inferior horizontal direito = 3 ohms
