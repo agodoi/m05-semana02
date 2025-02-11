@@ -211,7 +211,7 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 
 ## Ponderada do Dia
 
-Cada aluno deve comprovar matematicamente o valor da corrente I1 (malha 1) e I2 (malha 2) usando o LKT e a Lei de Ohm.
+Cada aluno deve comprovar matematicamente o valor da corrente I1 (malha 1) e I2 (malha 2), além do VR1 (tensão sobre o R1), VR2, VR3, VR4 e VR5 usando o LKT e a Lei de Ohm.
 Montar o circuito em seu TinkerCad, ligar as fontes CC, os resistores, e o amperímetro para medir o Itotal saindo da fonte de 45V, outro para medir o Itotal saindo da fonte de 10V e terceiro amperímetro para medir a corrente no ramo do R3. Além dos amperímetros, precisa ligar um voltímetro em cada resistor do circuito.
 
 ### Barema
