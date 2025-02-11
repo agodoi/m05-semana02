@@ -206,7 +206,7 @@ Fonte CC da esquerda = 45V
 
 Fonte CC da direita = 10V
 
-Resistor superior horizontal esquerdo = 2 ohmns
+Resistor superior horizontal esquerdo = 2 ohms
 
 Resistor superior horizontal direito = 9 ohms
 
