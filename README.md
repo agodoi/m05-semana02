@@ -200,18 +200,12 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 
 [circuito](https://www.tinkercad.com/things/2xXIkL78lpx-eletricidade-simulacao-corrente/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits%3Fpage%3D1&sharecode=LYk_PSfHtcqp-YjCDKfLuxgOQWMHT0V35CXY6Yg4WA8)
 
-Dados do circuito:
+### Dados do circuito:
 
-Fonte CC da esquerda = 45V
-
-Fonte CC da direita = 10V
-
-Resistor superior horizontal esquerdo = 2 ohms
-
-Resistor superior horizontal direito = 9 ohms
-
-Resistor vertical central = 12 ohms
-
-Resitor inferior horizontal esquerdo = 4 ohms
-
-Resistor inferior horizontal direito = 3 ohms
+* Fonte CC da esquerda = 45V
+* Fonte CC da direita = 10V
+* Resistor superior horizontal esquerdo (R1) = 2 ohms
+* Resistor superior horizontal direito (R2) = 9 ohms
+* Resistor vertical central (R3) = 12 ohms
+* Resitor inferior horizontal esquerdo (R5) = 4 ohms
+* Resistor inferior horizontal direito (R4) = 3 ohms
