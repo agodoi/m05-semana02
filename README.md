@@ -213,7 +213,18 @@ Medir a corrente elétrica é também uma das funções mais importantes de um m
 ## Ponderada do Dia
 
 Cada aluno deve comprovar matematicamente o valor da corrente I1 (malha 1) e I2 (malha 2) usando o LKT e a Lei de Ohm.
-Montar o circuito em seu TinkerCad, ligar as fontes CC, os resistores, e o amperímetro para medir o Itotal saindo da fonte de 45V, outro para medir o Itotal saindo da fonte de 10V e terceiro amperímetro para medir a corrente no ramo do R3.
+Montar o circuito em seu TinkerCad, ligar as fontes CC, os resistores, e o amperímetro para medir o Itotal saindo da fonte de 45V, outro para medir o Itotal saindo da fonte de 10V e terceiro amperímetro para medir a corrente no ramo do R3. Além dos amperímetros, precisa ligar um voltímetro em cada resistor do circuito.
 
 ### Barema
+
+Trabalho individual. O que precisa ser entregue?
+
+Relatório em PDF contendo:
+
+a) Print do Tinkercad com os instrumentos mostrando os valores medidos (tensão e corrente);
+b) Link do seu Tinkercad da sua montagem e simulação. Cuidado ao pegar essa URL. Pegue pelo botão **ENVIAR PARA** que fica no canto direito superior;
+c) Explicar porque a corrente I1 e I2 deram sinal positivo ou negativo;
+d) Apresentar as equações das respectivas malhas 1 e 2 (isto é, o sistema linear matemático);
+e) Apresentar os resultados de I1 e de I2 calculados, que precisam bater com os valores simulados;
+f) Suponha que seu multímetro tenha 12 ohms de impedância interna na escala de tensão. O que aconteceria com o valor da tensão medido no R3? Justifique.
 
